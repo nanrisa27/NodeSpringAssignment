@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+
+h2 {
+  font-family: 'Permanent Marker', cursive;
+}
+
+p {
+  font-family: 'Inconsolata', monospace;
+  color: navy;
+}
+
+div {
+  position: relative;
+}
+
+img {
+  max-height: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
